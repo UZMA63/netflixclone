@@ -1,2 +1,3 @@
 # netflixclone
+I have done this project using Html and CSS only....
  
